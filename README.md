@@ -1,18 +1,47 @@
-# Homebrew Tap — AIPepito
+# Homebrew Tap — vjeantet
 
-## Install
+## Available packages
+
+| Name | Type | Description |
+|------|------|-------------|
+| **alerter** | Formula (CLI) | macOS notification CLI — send native notifications and capture user interactions |
+| **aipepito** | Cask (App) | Meeting recording with automatic transcription and AI-generated reports |
+
+## Alerter
+
+### Install
+
+```bash
+brew install vjeantet/tap/alerter
+```
+
+### Update
+
+```bash
+brew upgrade alerter
+```
+
+### Uninstall
+
+```bash
+brew uninstall alerter
+```
+
+## AIPepito
+
+### Install
 
 ```bash
 brew install vjeantet/tap/aipepito
 ```
 
-## Update
+### Update
 
 ```bash
 brew upgrade aipepito
 ```
 
-## Uninstall
+### Uninstall
 
 ```bash
 brew uninstall aipepito
