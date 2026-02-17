@@ -1,9 +1,9 @@
 class Alerter < Formula
   desc "macOS notification CLI — send native notifications and capture user interactions"
   homepage "https://github.com/vjeantet/alerter"
-  version "26.3"
+  version "26.4"
   url "https://github.com/vjeantet/alerter/releases/download/v#{version}/alerter-#{version}.zip"
-  sha256 "49b199a57c8178e3f8c0e20a220af72c045d6eef5e825f181788c5757ea6861d"
+  sha256 "bb4d25df371d3b664d487e84dfb6386991b8b8a8170b81d71dff66a6f505156d"
   license "MIT"
 
   depends_on :macos
